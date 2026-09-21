@@ -1,4 +1,4 @@
-# 🤖 AI-Assisted Robotic Gripper
+# AI-Assisted Robotic Gripper
 
 ### Intelligent Object Detection & Adaptive Motion Control
 
@@ -8,7 +8,7 @@ The system uses **YOLO for object detection** and a **3-finger, 6-servo gripper*
 
 ---
 
-## 📸 Project
+## Project
 
 <!-- Add your best photo of the completed gripper here -->
 
@@ -18,26 +18,26 @@ The system uses **YOLO for object detection** and a **3-finger, 6-servo gripper*
 
 ---
 
-## 🎯 Overview
+## Overview
 
 The goal of this project is to combine **AI-based perception with a physical robotic manipulation system**.
 
 The system integrates:
 
-- 👁️ YOLO-based object detection
-- 🦾 3-finger, 6-servo robotic gripper
-- 🔌 Arduino UNO + ESP32
-- ✋ Force / tactile sensing
-- ⚙️ Embedded servo control
-- 🧩 Fusion 360 mechanical design
-- 🖨️ 3D-printed components
-- 🌐 Web-based joint control
+- YOLO-based object detection
+- 3-finger, 6-servo robotic gripper
+- Arduino UNO + ESP32
+- Force / tactile sensing
+- Embedded servo control
+- Fusion 360 mechanical design
+- 3D-printed components
+- Web-based joint control
 
 The project was developed around the challenge of connecting **visual perception, physical sensing, and robotic actuation** into one system.
 
 ---
 
-# 🧠 System Architecture
+# System Architecture
 
 ```text
                 ┌──────────────────┐
